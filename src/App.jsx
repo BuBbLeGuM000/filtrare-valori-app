@@ -96,4 +96,4 @@ export default function App() { // Declarăm și exportăm funcția componentei 
       </div> {/* Închidem cardul alb din centru */}
     </div> 
   ); // Închidem returnarea blocului JSX
-} // Închidem funcția App definitiv
+} 
